@@ -1,0 +1,24 @@
+<svg width="394" height="266" viewBox="0 0 394 266" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="program 7 websites in 7 days">
+<g id="Group 12">
+<rect id="Rectangle 15" x="59.6309" y="144.445" width="3" height="534.431" transform="rotate(-88.9032 59.6309 144.445)" fill="#E1C4A7"/>
+<rect id="Rectangle 16" x="62.3038" y="128.634" width="3" height="534.431" transform="rotate(-88.9032 62.3038 128.634)" fill="#E1C4A7"/>
+<rect id="Rectangle 17" x="64.8082" y="113.81" width="3" height="534.431" transform="rotate(-88.9032 64.8082 113.81)" fill="#E1C4A7"/>
+</g>
+<g id="Rectangle 37" filter="url(#filter0_d)">
+<rect x="7" y="30" width="212" height="198" fill="#F9B5B0"/>
+</g>
+<path id="1" d="M114.172 162H111.641L122.891 97.0781L102.688 104.25L103.062 101.531L125.281 93.5625H125.891L114.172 162Z" fill="black"/>
+</g>
+<defs>
+<filter id="filter0_d" x="0" y="27" width="226" height="212" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="3.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.898039 0 0 0 0 0.898039 0 0 0 0 0.898039 0 0 0 1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+</defs>
+</svg>
