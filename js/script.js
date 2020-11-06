@@ -33,7 +33,7 @@ let portfolioInfo = [
 
 let portfolioSection = document.querySelector('.portfolio-header');
 
-portfolioInfo.forEach((item)=>{
+portfolioInfo.forEach((item) => {
     console.log(item);
     portfolioSection.innerHTML += `<div class="col-md-4 col-sm-6">
                          <figure class="portfolio-item">
@@ -58,7 +58,5 @@ let templateStr = `<div class="col-md-4 col-sm-6">
 
 const links = document.getElementsByTagName("a");
 for (let i = 0; i < links.length; i++) {
-  links[i].addEventListener("click", event => event.preventDefault());
+    links[i].addEventListener("click", event => event.preventDefault());
 }
-
-

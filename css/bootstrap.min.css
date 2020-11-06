@@ -423,6 +423,7 @@ mark {
 .img-fluid {
     max-width: 100%;
     height: auto;
+    width: auto;
 }
 .img-thumbnail {
     padding: 0.25rem;
@@ -524,8 +525,6 @@ pre code {
     display: flex;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-    margin-right: -15px;
-    margin-left: -15px;
 }
 .no-gutters {
     margin-right: 0;
@@ -8103,10 +8102,6 @@ button.bg-dark:hover {
     .mr-md-0,
     .mx-md-0 {
         margin-right: 0 !important;
-    }
-    .mb-md-0,
-    .my-md-0 {
-        margin-bottom: 0 !important;
     }
     .ml-md-0,
     .mx-md-0 {
